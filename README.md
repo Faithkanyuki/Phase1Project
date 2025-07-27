@@ -426,6 +426,8 @@ Q&A """ Cessna 206B (low damage) and Boeing 737 (low incidents + high score). ""
 Conclusion """ While safety scores appear strong across all models, cross-referencing with damage data reveals: Two safe paths forward: Build fleet around Cessna 206B/Boeing 737 Negotiate risk-sharing for essential training aircraft """
 
 
+#The viasiulization 
+<img width="725" height="530" alt="Aircraft Safety Dashboard" src="https://github.com/user-attachments/assets/8622c78b-b97f-4f6d-a504-8efa31d698fd" />
 
 
 
