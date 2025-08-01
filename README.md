@@ -427,9 +427,11 @@ Conclusion """ While safety scores appear strong across all models, cross-refere
 
 
 #Kindly Find my Attached link to tableau dashboard
-https://public.tableau.com/views/Project_Aviation_Phase1/AircraftSafetyDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-<img width="972" height="537" alt="Aircraft Safety Dashboard (1)" src="https://github.com/user-attachments/assets/529abb77-459e-486e-b79c-2c17a6f26d0d" />
+
+https://public.tableau.com/views/Project_Aviation_Phase001/AirSafetyDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+<img width="1302" height="537" alt="Air Safety Dashboard" src="https://github.com/user-attachments/assets/965162e2-a067-4e1c-9121-e212cd09f690" />
 
 
 
