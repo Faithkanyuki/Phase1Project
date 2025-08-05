@@ -1,5 +1,4 @@
 # Data-Driven Aircraft Risk Analysis for Safe Fleet Acquisition
-# Aircraft Risk Analysis for Safe Fleet Acquisition
 
 ## Overview
 This project aims to identify the safest aircraft models for launching a new aviation business by analyzing over 60 years of historical accident data. The goal is to translate this data into actionable recommendations to build a reputation for safety in the aviation industry.
@@ -61,13 +60,8 @@ The dataset includes:
 
 ---
 
-**Author:** Faith Kanyuki  
-**Contact:** [faithkanyuki@gmail.com](mailto:faithkanyuki@gmail.com)  
-**Repository Link:** [GitHub Repository](#) *(replace with actual link)*  
 
-
-#Kindly Find my Attached link to tableau dashboard
-
+# Kindly Find my Attached link to tableau dashboard
 
 https://public.tableau.com/views/Project_Aviation_Phase001/AirSafetyDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
